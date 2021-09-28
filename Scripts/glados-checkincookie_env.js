@@ -46,7 +46,7 @@ Modified by evilbutcher
 【Quantumult X】
 ----------------
 [rewrite_local]
-https://cloud.faster.buzz/m/home url script-request-header https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js
+https://cloud.faster.buzz url script-request-header https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js
 （其中https:\/\/cccat\.io需要替换为你自己的机场链接）
 
 [task_local]
