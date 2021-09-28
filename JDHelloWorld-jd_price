@@ -1,0 +1,7 @@
+# Time Rewrite Time:2021/09/28
+
+#Hostname
+hostname = api.m.jd.com
+
+# 京东比价，源地址：https://github.com/JDHelloWorld/jd_scripts
+^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig) url script-response-body https://raw.githubusercontent.com/JDHelloWorld/jd_price/main/jd_price.js
