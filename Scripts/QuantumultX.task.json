@@ -1,5 +1,5 @@
 {
-  "name": "@evilbutcher 脚本集合",
+  "name": "Zmtter脚本集合",
   "description": "Quantumult X Task Galllery by evilbutcher",
   "task": [
     "0 0 6 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/nasa/nasapic.js, tag=NASA每日一图, img-url=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/nasa.png, enabled=true",
