@@ -15,7 +15,7 @@
       "addons": "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/profiles/QuantumultX/addons/glados.conf, tag = GLaDOS获取Cookie"
     },
     "45 4 8 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkin_env.js, tag=机场签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/airport.png, enabled=true",
-    "0 5 8 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master//check_in/glados/checkincookie_env.js, tag=机场签到Cookie版, img-url=https://raw.githubusercontent.com/58xinian/icon/master/glados.png, enabled=true",
+    "0 5 8 * * * https://raw.githubusercontent.com/zmtter/QuanX/main/Scripts/glados-checkincookie_env.js?token=AU2DLMRQVEEKXIBVX7QUVJTBKLJBO, tag=机场签到Cookie版, img-url=https://raw.githubusercontent.com/58xinian/icon/master/glados.png, enabled=true",
     {
       "config": "0 4 8 * * *  https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/funboat/funboat.js, tag=Funboat, img-url=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/funko.png, enabled=true",
       "addons": "https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/profiles/QuantumultX/addons/funboat.conf, tag = Funboat获取Cookie"
