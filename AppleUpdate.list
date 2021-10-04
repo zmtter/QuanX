@@ -1,0 +1,6 @@
+# 屏蔽IOS系统升级
+HOST,ns.itunes.apple.com
+HOST,appldnld.apple.com
+HOST,mesu.apple.com
+HOST,xp.apple.com
+HOST,gdmf.apple.com
