@@ -1,0 +1,13 @@
+# 电脑日常使用
+HOST-KEYWORD,jianguoyun
+HOST-KEYWORD,flomo
+HOST-KEYWORD,dingtalk
+HOST-KEYWORD,huorong
+HOST-KEYWORD,highso
+HOST-KEYWORD,haixue
+HOST-SUFFIX,haixue.com
+HOST-SUFFIX,wiz.cn
+HOST-SUFFIX,toutiao.com
+HOST-SUFFIX,toutiaoimg.com
+HOST-SUFFIX,xgimi.com
+user-agent,api.m.jd.com/client.action?functionId=start
