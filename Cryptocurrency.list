@@ -1,107 +1,103 @@
-# zmtt
-HOST-KEYWORD,bntrace
-HOST-KEYWORD,hanqiweb
-HOST-KEYWORD,bnb
-HOST-KEYWORD,bitanb
-HOST-KEYWORD,hecoview
-HOST-KEYWORD,trustwallet
-HOST-KEYWORD,binance
-
-
-
-
+# zmtter
+HOST-KEYWORD,bntrace,
+HOST-KEYWORD,hanqiweb,
+HOST-KEYWORD,bnb,
+HOST-KEYWORD,bitanb,
+HOST-KEYWORD,hecoview,
+HOST-KEYWORD,trustwallet,
+HOST-KEYWORD,binance,
 
 # CEFI
-HOST-SUFFIX,aex.com
-HOST-SUFFIX,bibox.com
-HOST-SUFFIX,binance.cc
-HOST-SUFFIX,binance.com
-HOST-SUFFIX,bitcointalk.org
-HOST-SUFFIX,bitfinex.com
-HOST-SUFFIX,bitmex.com
-HOST-SUFFIX,ftx.com
-HOST-SUFFIX,gate.io
-HOST-SUFFIX,huobi.com
-HOST-SUFFIX,huobi.li
-HOST-SUFFIX,huobi.vc
-HOST-SUFFIX,huobi.ws
-HOST-SUFFIX,huobi.ae
-HOST-SUFFIX,huobi.bo
-HOST-SUFFIX,huobi.bs
-HOST-SUFFIX,huobi.do
-HOST-SUFFIX,huobi.sk
-HOST-SUFFIX,huobi.is
-HOST-SUFFIX,okex.com
-HOST-SUFFIX,sushi.com
-HOST-SUFFIX,uniswap.org
-HOST-SUFFIX,zb.com
-HOST-SUFFIX,huobiasia.club
-HOST-SUFFIX,huobiasia.vip
-HOST-SUFFIX,xfilecache.com
-HOST-SUFFIX,woodpeckerlog.com
-HOST-SUFFIX,bitvj.com
-HOST-SUFFIX,bitvk.com
-HOST-SUFFIX,bitderiv.com
-HOST-SUFFIX,hbabit.com
+HOST-SUFFIX,aex.com,
+HOST-SUFFIX,bibox.com,
+HOST-SUFFIX,binance.cc,
+HOST-SUFFIX,binance.com,
+HOST-SUFFIX,bitcointalk.org,
+HOST-SUFFIX,bitfinex.com,
+HOST-SUFFIX,bitmex.com,
+HOST-SUFFIX,ftx.com,
+HOST-SUFFIX,gate.io,
+HOST-SUFFIX,huobi.com,
+HOST-SUFFIX,huobi.li,
+HOST-SUFFIX,huobi.vc,
+HOST-SUFFIX,huobi.ws,
+HOST-SUFFIX,huobi.ae,
+HOST-SUFFIX,huobi.bo,
+HOST-SUFFIX,huobi.bs,
+HOST-SUFFIX,huobi.do,
+HOST-SUFFIX,huobi.sk,
+HOST-SUFFIX,huobi.is,
+HOST-SUFFIX,okex.com,
+HOST-SUFFIX,sushi.com,
+HOST-SUFFIX,uniswap.org,
+HOST-SUFFIX,zb.com,
+HOST-SUFFIX,huobiasia.club,
+HOST-SUFFIX,huobiasia.vip,
+HOST-SUFFIX,xfilecache.com,
+HOST-SUFFIX,woodpeckerlog.com,
+HOST-SUFFIX,bitvj.com,
+HOST-SUFFIX,bitvk.com,
+HOST-SUFFIX,bitderiv.com,
+HOST-SUFFIX,hbabit.com,
 
 # Defi
-HOST-SUFFIX,mdex.com
-HOST-SUFFIX,mdex.me
-HOST-SUFFIX,mdex.co
-HOST-SUFFIX,mdex.cc
-HOST-SUFFIX,coinwind.com
-HOST-SUFFIX,coinwind.pro
-HOST-SUFFIX,sun.io
-HOST-SUFFIX,justswap.io
-HOST-SUFFIX,depth.fi
-HOST-SUFFIX,hswap.com
-HOST-SUFFIX,coin.top
-HOST-SUFFIX,westarter.org
+HOST-SUFFIX,mdex.com,
+HOST-SUFFIX,mdex.me,
+HOST-SUFFIX,mdex.co,
+HOST-SUFFIX,mdex.cc,
+HOST-SUFFIX,coinwind.com,
+HOST-SUFFIX,coinwind.pro,
+HOST-SUFFIX,sun.io,
+HOST-SUFFIX,justswap.io,
+HOST-SUFFIX,depth.fi,
+HOST-SUFFIX,hswap.com,
+HOST-SUFFIX,coin.top,
+HOST-SUFFIX,westarter.org,
 
 # Wallet
-HOST-SUFFIX,hbwallet.net
-HOST-SUFFIX,mytokenpocket.vip
-HOST-SUFFIX,tokenpocket.pro
-HOST-SUFFIX,tronlink.org
-HOST-SUFFIX,hbwalletapi.net
-HOST-SUFFIX,quickwallet.io
+HOST-SUFFIX,hbwallet.net,
+HOST-SUFFIX,mytokenpocket.vip,
+HOST-SUFFIX,tokenpocket.pro,
+HOST-SUFFIX,tronlink.org,
+HOST-SUFFIX,hbwalletapi.net,
+HOST-SUFFIX,quickwallet.io,
 
 # Miner
-HOST-SUFFIX,unmineable.com
-HOST-SUFFIX,unminable.com
+HOST-SUFFIX,unmineable.com,
+HOST-SUFFIX,unminable.com,
 
 # Chain
-HOST-SUFFIX,hecochain.com
-HOST-SUFFIX,tronalliance.com
-HOST-SUFFIX,tronalliance.cc
-HOST-SUFFIX,trongrid.io
-HOST-SUFFIX,infura.io
-HOST-SUFFIX,binance.org
-HOST-SUFFIX,http-mainnet-node.huobichain.com
+HOST-SUFFIX,hecochain.com,
+HOST-SUFFIX,tronalliance.com,
+HOST-SUFFIX,tronalliance.cc,
+HOST-SUFFIX,trongrid.io,
+HOST-SUFFIX,infura.io,
+HOST-SUFFIX,binance.org,
+HOST-SUFFIX,http-mainnet-node.huobichain.com,
 
 # Dapp
-HOST-SUFFIX,tronscan.io
-HOST-SUFFIX,tronscan.org
-HOST-SUFFIX,hogt.com
-HOST-SUFFIX,yfx.com
-HOST-SUFFIX,quickchart.io
-HOST-SUFFIX,ajax.cloudflare.com
-HOST-SUFFIX,coingecko.com
-HOST-SUFFIX,min-api.cryptocompare.com
-HOST-SUFFIX,wink.org
-HOST-SUFFIX,faviconkit.com
+HOST-SUFFIX,tronscan.io,
+HOST-SUFFIX,tronscan.org,
+HOST-SUFFIX,hogt.com,
+HOST-SUFFIX,yfx.com,
+HOST-SUFFIX,quickchart.io,
+HOST-SUFFIX,ajax.cloudflare.com,
+HOST-SUFFIX,coingecko.com,
+HOST-SUFFIX,min-api.cryptocompare.com,
+HOST-SUFFIX,wink.org,
+HOST-SUFFIX,faviconkit.com,
 
 # Swap
-HOST-SUFFIX,justswap.io
-HOST-SUFFIX,just.network
+HOST-SUFFIX,justswap.io,
+HOST-SUFFIX,just.network,
 
 # News
-HOST-SUFFIX,bishijie.com
-HOST-SUFFIX,blocktempo.com
+HOST-SUFFIX,bishijie.com,
+HOST-SUFFIX,blocktempo.com,
 
 # Info
-HOST-SUFFIX,coinmarketcap.com
-HOST-SUFFIX,feixiaoquan.com
-HOST-SUFFIX,aicoin.cn
-HOST-SUFFIX,bqiapp.com
-HOST-SUFFIX,bqrank.net
+HOST-SUFFIX,coinmarketcap.com,
+HOST-SUFFIX,feixiaoquan.com,
+HOST-SUFFIX,aicoin.cn,
+HOST-SUFFIX,bqiapp.com,
+HOST-SUFFIX,bqrank.net,
