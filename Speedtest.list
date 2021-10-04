@@ -1,12 +1,12 @@
 # Speedtest
-DOMAIN-SUFFIX,ooklaserver.net,
-DOMAIN-SUFFIX,speed.cloudflare.com,
-DOMAIN-KEYWORD,speedtest,
-DOMAIN-KEYWORD,veeapps,
-USER-AGENT,SpeedTest*,
+DOMAIN-SUFFIX,ooklaserver.net,网速测试
+DOMAIN-SUFFIX,speed.cloudflare.com,网速测试
+DOMAIN-KEYWORD,speedtest,网速测试
+DOMAIN-KEYWORD,veeapps,网速测试
+USER-AGENT,SpeedTest*,网速测试
 
 # fast
-DOMAIN-SUFFIX,fast.com,
-DOMAIN-SUFFIX,aca.nflxvideo.net,
+DOMAIN-SUFFIX,fast.com,网速测试
+DOMAIN-SUFFIX,aca.nflxvideo.net,网速测试
 
 # 其他

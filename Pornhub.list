@@ -1,11 +1,11 @@
 # Pornhub
-HOST-SUFFIX,phncdn.com
-HOST-SUFFIX,phprcdn.com
-HOST-SUFFIX,pornhub.com
-HOST-SUFFIX,pornhubpremium.com
+HOST-SUFFIX,phncdn.com,成人视频
+HOST-SUFFIX,phprcdn.com,成人视频
+HOST-SUFFIX,pornhub.com,成人视频
+HOST-SUFFIX,pornhubpremium.com,成人视频
 
 # Xvideos
-HOST-SUFFIX,xvideos.com
-HOST-SUFFIX,xvideos.es
-HOST-SUFFIX,xvideos-cdn.com
+HOST-SUFFIX,xvideos.com,成人视频
+HOST-SUFFIX,xvideos.es,成人视频
+HOST-SUFFIX,xvideos-cdn.com,成人视频
 

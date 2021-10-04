@@ -1,11 +1,11 @@
 # 极光插件
-HOST-KEYWORD,jiguang,
-HOST-KEYWORD,jpush,
+HOST-KEYWORD,jiguang,REJECT
+HOST-KEYWORD,jpush,REJECT
 
 # 避免迅雷版权问题
-HOST,hub5idx.v6.shub.sandai.net,
-HOST,hub5emu.v6.shub.sandai.net,
-HOST,hub5btmain.v6.shub.sandai.net,
+HOST,hub5idx.v6.shub.sandai.net,REJECT
+HOST,hub5emu.v6.shub.sandai.net,REJECT
+HOST,hub5btmain.v6.shub.sandai.net,REJECT
 
 # 绕过企业证书过期
-HOST,ocsp.apple.com,
+HOST,ocsp.apple.com,REJECT

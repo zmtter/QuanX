@@ -1,32 +1,32 @@
 # 电脑日常使用
-HOST-KEYWORD,jianguoyun,
-HOST-KEYWORD,flomo,
-HOST-KEYWORD,dingtalk,
-HOST-KEYWORD,huorong,
-HOST-KEYWORD,highso,
-HOST-KEYWORD,haixue,
-HOST-SUFFIX,haixue.com,
-HOST-SUFFIX,wiz.cn,
-HOST-SUFFIX,toutiao.com,
-HOST-SUFFIX,toutiaoimg.com,
-HOST-SUFFIX,xgimi.com,
-user-agent,api.m.jd.com/client.action?functionId=start,
+HOST-KEYWORD,jianguoyun,大陆网站
+HOST-KEYWORD,flomo,大陆网站
+HOST-KEYWORD,dingtalk,大陆网站
+HOST-KEYWORD,huorong,大陆网站
+HOST-KEYWORD,highso,大陆网站
+HOST-KEYWORD,haixue,大陆网站
+HOST-SUFFIX,haixue.com,大陆网站
+HOST-SUFFIX,wiz.cn,大陆网站
+HOST-SUFFIX,toutiao.com,大陆网站
+HOST-SUFFIX,toutiaoimg.com,大陆网站
+HOST-SUFFIX,xgimi.com,大陆网站
+user-agent,api.m.jd.com/client.action?functionId=start,大陆网站
 
 # 银行
-HOST-SUFFIX,95599.cn,
-HOST-SUFFIX,abchina.com,
-HOST-SUFFIX,bscabank.com,
-HOST-SUFFIX,openaboc.cn,
-HOST-SUFFIX,openaboc.com,
-HOST-SUFFIX,openaboc.com.cn,
+HOST-SUFFIX,95599.cn,大陆网站
+HOST-SUFFIX,abchina.com,大陆网站
+HOST-SUFFIX,bscabank.com,大陆网站
+HOST-SUFFIX,openaboc.cn,大陆网站
+HOST-SUFFIX,openaboc.com,大陆网站
+HOST-SUFFIX,openaboc.com.cn,大陆网站
 
 
 # 其他
-ip-cidr,10.0.0.0/8,
-ip-cidr,17.0.0.0/8,
-ip-cidr,100.64.0.0/10,
-ip-cidr,127.0.0.0/8,
-ip-cidr,172.16.0.0/12,
-ip-cidr,192.168.0.0/16,
-host-suffix,local,
-geoip,cn,
+ip-cidr,10.0.0.0/8,大陆网站
+ip-cidr,17.0.0.0/8,大陆网站
+ip-cidr,100.64.0.0/10,大陆网站
+ip-cidr,127.0.0.0/8,大陆网站
+ip-cidr,172.16.0.0/12,大陆网站
+ip-cidr,192.168.0.0/16,大陆网站
+host-suffix,local,大陆网站
+geoip,cn,大陆网站
