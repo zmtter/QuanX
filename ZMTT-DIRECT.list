@@ -12,7 +12,13 @@ HOST-SUFFIX,toutiaoimg.com,大陆网站
 HOST-SUFFIX,xgimi.com,大陆网站
 user-agent,api.m.jd.com/client.action?functionId=start,大陆网站
 
-# 银行
+# 国内金融
+
+HOST-SUFFIX,wise.com,大陆网站
+HOST-KEYWORD,wise,大陆网站
+HOST-KEYWORD,eastwest,大陆网站
+HOST-KEYWORD,velo,大陆网站
+HOST-KEYWORD,payoneer,大陆网站
 HOST-SUFFIX,95599.cn,大陆网站
 HOST-SUFFIX,abchina.com,大陆网站
 HOST-SUFFIX,bscabank.com,大陆网站
