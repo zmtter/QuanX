@@ -14,6 +14,8 @@ user-agent,api.m.jd.com/client.action?functionId=start,大陆网站
 
 # 国内金融
 
+HOST-SUFFIX,advcash.com,大陆网站
+HOST-SUFFIX,wallet.advcash.com,大陆网站
 HOST-SUFFIX,wise.com,大陆网站
 HOST-KEYWORD,wise,大陆网站
 HOST-KEYWORD,eastwest,大陆网站
