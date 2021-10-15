@@ -13,14 +13,18 @@ HOST-SUFFIX,xgimi.com,大陆网站
 user-agent,api.m.jd.com/client.action?functionId=start,大陆网站
 
 # 跨境金融
+HOST-SUFFIX,remitly.com,大陆网站
 HOST-SUFFIX,webmoney.ru,大陆网站
 HOST-KEYWORD,webmoney,大陆网站
+HOST-SUFFIX,advcash.zendesk.com,大陆网站
 HOST-SUFFIX,advcash.com,大陆网站
 HOST-SUFFIX,wallet.advcash.com,大陆网站
 HOST-SUFFIX,wise.com,大陆网站
 HOST-KEYWORD,wise,大陆网站
 HOST-KEYWORD,eastwest,大陆网站
-HOST-KEYWORD,velo,大陆网站
+HOST-SUFFIX,eastwest.com,大陆网站
+HOST-KEYWORD,velobank,大陆网站
+HOST-SUFFIX,velobank.com,大陆网站
 HOST-KEYWORD,payoneer,大陆网站
 
 # 国内银行
