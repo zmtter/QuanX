@@ -1,45 +1,44 @@
 # 电脑日常使用
-HOST-KEYWORD,jianguoyun,大陆网站
-HOST-KEYWORD,flomo,大陆网站
-HOST-KEYWORD,dingtalk,大陆网站
-HOST-KEYWORD,huorong,大陆网站
-HOST-KEYWORD,highso,大陆网站
-HOST-KEYWORD,haixue,大陆网站
-HOST-SUFFIX,haixue.com,大陆网站
-HOST-SUFFIX,wiz.cn,大陆网站
-HOST-SUFFIX,toutiao.com,大陆网站
-HOST-SUFFIX,toutiaoimg.com,大陆网站
-HOST-SUFFIX,xgimi.com,大陆网站
-user-agent,api.m.jd.com/client.action?functionId=start,大陆网站
+HOST-KEYWORD,jianguoyun,DIRECT
+HOST-KEYWORD,flomo,DIRECT
+HOST-KEYWORD,dingtalk,DIRECT
+HOST-KEYWORD,huorong,DIRECT
+HOST-KEYWORD,highso,DIRECT
+HOST-KEYWORD,haixue,DIRECT
+HOST-SUFFIX,haixue.com,DIRECT
+HOST-SUFFIX,wiz.cn,DIRECT
+HOST-SUFFIX,toutiao.com,DIRECT
+HOST-SUFFIX,toutiaoimg.com,DIRECT
+HOST-SUFFIX,xgimi.com,DIRECT
+user-agent,api.m.jd.com/client.action?functionId=start,DIRECT
 
 # 跨境金融
-HOST-SUFFIX,remitly.com,大陆网站
-HOST-SUFFIX,webmoney.ru,大陆网站
-HOST-KEYWORD,webmoney,大陆网站
-HOST-SUFFIX,advcash.zendesk.com,大陆网站
-HOST-SUFFIX,advcash.com,大陆网站
-HOST-SUFFIX,wallet.advcash.com,大陆网站
-HOST-KEYWORD,eastwest,大陆网站
-HOST-SUFFIX,eastwest.com,大陆网站
-HOST-KEYWORD,velobank,大陆网站
-HOST-SUFFIX,velobank.com,大陆网站
-HOST-KEYWORD,payoneer,大陆网站
+HOST-SUFFIX,remitly.com,DIRECT
+HOST-KEYWORD,eastwest,DIRECT
+HOST-SUFFIX,eastwest.com,DIRECT
+HOST-KEYWORD,velobank,DIRECT
+HOST-SUFFIX,velobank.com,DIRECT
+HOST-KEYWORD,payoneer,DIRECT
+HOST-SUFFIX,swissquote.ch,DIRECT
+HOST-KEYWORD,swissquote,DIRECT
+HOST-SUFFIX,paxos.com,DIRECT
+HOST-KEYWORD,paxos,DIRECT
 
 # 国内银行
-HOST-SUFFIX,95599.cn,大陆网站
-HOST-SUFFIX,abchina.com,大陆网站
-HOST-SUFFIX,bscabank.com,大陆网站
-HOST-SUFFIX,openaboc.cn,大陆网站
-HOST-SUFFIX,openaboc.com,大陆网站
-HOST-SUFFIX,openaboc.com.cn,大陆网站
+HOST-SUFFIX,95599.cn,DIRECT
+HOST-SUFFIX,abchina.com,DIRECT
+HOST-SUFFIX,bscabank.com,DIRECT
+HOST-SUFFIX,openaboc.cn,DIRECT
+HOST-SUFFIX,openaboc.com,DIRECT
+HOST-SUFFIX,openaboc.com.cn,DIRECT
 
 
 # 其他
-ip-cidr,10.0.0.0/8,大陆网站
-ip-cidr,17.0.0.0/8,大陆网站
-ip-cidr,100.64.0.0/10,大陆网站
-ip-cidr,127.0.0.0/8,大陆网站
-ip-cidr,172.16.0.0/12,大陆网站
-ip-cidr,192.168.0.0/16,大陆网站
-host-suffix,local,大陆网站
-geoip,cn,大陆网站
+ip-cidr,10.0.0.0/8,DIRECT
+ip-cidr,17.0.0.0/8,DIRECT
+ip-cidr,100.64.0.0/10,DIRECT
+ip-cidr,127.0.0.0/8,DIRECT
+ip-cidr,172.16.0.0/12,DIRECT
+ip-cidr,192.168.0.0/16,DIRECT
+host-suffix,local,DIRECT
+geoip,cn,DIRECT
