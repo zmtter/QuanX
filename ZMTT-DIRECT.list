@@ -19,6 +19,7 @@ HOST-SUFFIX,eastwest.com,DIRECT
 HOST-KEYWORD,velobank,DIRECT
 HOST-SUFFIX,velobank.com,DIRECT
 HOST-KEYWORD,payoneer,DIRECT
+HOST-KEYWORD,mql5.com,DIRECT
 
 
 # 国内银行
