@@ -1,6 +1,6 @@
 # 屏蔽IOS系统升级
-HOST,ns.itunes.apple.com,苹果升级
-HOST,appldnld.apple.com,苹果升级
-HOST,mesu.apple.com,苹果升级
-HOST,xp.apple.com,苹果升级
-HOST,gdmf.apple.com,苹果升级
+HOST,ns.itunes.apple.com,屏蔽升级
+HOST,appldnld.apple.com,屏蔽升级
+HOST,mesu.apple.com,屏蔽升级
+HOST,xp.apple.com,屏蔽升级
+HOST,gdmf.apple.com,屏蔽升级
